@@ -1,0 +1,3 @@
+SP0004	SC0002	Swimming	Surabaya	Eric
+SP0003	SC0003	Tennis	Tangerang	kymil
+SP0002	SC0002	Badminton	Surabaya	peter

@@ -1,0 +1,7 @@
+CO1122	bjk	22/12/2002	115 RM	087324671632	aaa street	-	SC0001	Jakarta	SP0001	Basketball	3.5	2	5.0
+CO3322	peter	22/11/2002	333 RM	087127361723	bbb street	-	SC0002	Surabaya	SP0002	Badminton	4.5	3	4.5
+CO9342	kymil	12/10/2012	120 RM	08236472541124	anjai street	-	SC0003	Tangerang	SP0003	Tennis	4.2	5	3.0
+CO3721	udin	22/02/2000	287 RM	088136273611	your mom street	-	SC0001	Jakarta	SP0008	Table Tennis	4.25	4	5.0
+CO5619	ivan	20/08/2006	200 RM	0556126374	Ivan ivan street	-	SC0002	Surabaya	SP0004	Swimming	3.5	2	3.0
+CO7654	erica	05/03/2008	175 RM	055416244	cireric street	-	SC0002	Surabaya	SP0004	Swimming	5.0	1	5.0
+CO8346	andreas	29/11/2007	185 RM	0712846124	notnhay street	-	SC0001	Jakarta	SP0007	Cricket	-	0	-
